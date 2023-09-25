@@ -1,0 +1,15 @@
+C:\Users\Lenovo\Documents\IFRO 2° Ano\P.O.O e L.P\3° Bimestre\Prova 3° Bimestre\Prova 3° Bimestre\obj\Debug\net7.0\Prova 3° Bimestre.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Documents\IFRO 2° Ano\P.O.O e L.P\3° Bimestre\Prova 3° Bimestre\Prova 3° Bimestre\obj\Debug\net7.0\Prova 3° Bimestre.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Documents\IFRO 2° Ano\P.O.O e L.P\3° Bimestre\Prova 3° Bimestre\Prova 3° Bimestre\obj\Debug\net7.0\Prova 3° Bimestre.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Documents\IFRO 2° Ano\P.O.O e L.P\3° Bimestre\Prova 3° Bimestre\Prova 3° Bimestre\obj\Debug\net7.0\Prova 3° Bimestre.AssemblyInfo.cs
+C:\Users\Lenovo\Documents\IFRO 2° Ano\P.O.O e L.P\3° Bimestre\Prova 3° Bimestre\Prova 3° Bimestre\obj\Debug\net7.0\Prova 3° Bimestre.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Documents\IFRO 2° Ano\P.O.O e L.P\3° Bimestre\Prova 3° Bimestre\Prova 3° Bimestre\bin\Debug\net7.0\Prova 3° Bimestre.exe
+C:\Users\Lenovo\Documents\IFRO 2° Ano\P.O.O e L.P\3° Bimestre\Prova 3° Bimestre\Prova 3° Bimestre\bin\Debug\net7.0\Prova 3° Bimestre.deps.json
+C:\Users\Lenovo\Documents\IFRO 2° Ano\P.O.O e L.P\3° Bimestre\Prova 3° Bimestre\Prova 3° Bimestre\bin\Debug\net7.0\Prova 3° Bimestre.runtimeconfig.json
+C:\Users\Lenovo\Documents\IFRO 2° Ano\P.O.O e L.P\3° Bimestre\Prova 3° Bimestre\Prova 3° Bimestre\bin\Debug\net7.0\Prova 3° Bimestre.dll
+C:\Users\Lenovo\Documents\IFRO 2° Ano\P.O.O e L.P\3° Bimestre\Prova 3° Bimestre\Prova 3° Bimestre\bin\Debug\net7.0\Prova 3° Bimestre.pdb
+C:\Users\Lenovo\Documents\IFRO 2° Ano\P.O.O e L.P\3° Bimestre\Prova 3° Bimestre\Prova 3° Bimestre\obj\Debug\net7.0\Prova 3° Bimestre.dll
+C:\Users\Lenovo\Documents\IFRO 2° Ano\P.O.O e L.P\3° Bimestre\Prova 3° Bimestre\Prova 3° Bimestre\obj\Debug\net7.0\refint\Prova 3° Bimestre.dll
+C:\Users\Lenovo\Documents\IFRO 2° Ano\P.O.O e L.P\3° Bimestre\Prova 3° Bimestre\Prova 3° Bimestre\obj\Debug\net7.0\Prova 3° Bimestre.pdb
+C:\Users\Lenovo\Documents\IFRO 2° Ano\P.O.O e L.P\3° Bimestre\Prova 3° Bimestre\Prova 3° Bimestre\obj\Debug\net7.0\Prova 3° Bimestre.genruntimeconfig.cache
+C:\Users\Lenovo\Documents\IFRO 2° Ano\P.O.O e L.P\3° Bimestre\Prova 3° Bimestre\Prova 3° Bimestre\obj\Debug\net7.0\ref\Prova 3° Bimestre.dll
